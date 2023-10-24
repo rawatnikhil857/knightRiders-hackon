@@ -34,6 +34,7 @@ The dataset that is being used by our project is derived from two dataset: the m
 
 
 ![alt text](https://i.ibb.co/W398TX2/image.png)
+
 In this project the LLM is trained using a combined dataset that integrates user interactions and comprehensive movie data. This amalgamation allows the LLM to learn from user preferences, consequently tailoring movie recommendations based on the specific contexts provided.
 
 The combined dataset encompasses user-related information, including watched movies, ratings, and genres of movies. Through this amalgamated dataset, the LLM is trained from the user past history by providing some watched and rated movies as context and some as recommended movies so that LLM recognizes the resemblances between different movies based on user past movies records and recommend some other movies that user has not watched yet.
