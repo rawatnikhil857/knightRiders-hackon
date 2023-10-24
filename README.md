@@ -20,7 +20,7 @@ We've implemented parameter efficient fine-tuning (PEFT) using Low-Rank Adaptati
 The dataset that is being used by our project is derived from two dataset: the movie dataset and the other one is rating dataset, from MovieLens 20M. Our model is being trained on the combined dataset.
 
  - Movie dataset
-![alt text](https://i.ibb.co/SXPMZTj/image.png)
+![alt text](https://i.ibb.co/47MHkjh/image.png)
 
 
 In this project the LLM is trained using a combined dataset that integrates user interactions and comprehensive movie data. This amalgamation allows the LLM to learn from user preferences, consequently tailoring movie recommendations based on the specific contexts provided.
